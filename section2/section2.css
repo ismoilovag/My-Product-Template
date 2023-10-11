@@ -1,1 +1,41 @@
-/*# sourceMappingURL=section2.css.map */
+.service {
+  width: 100%;
+  background-color: #1F2E35;
+  padding: 200px 0px 100px;
+}
+.service-subtitle {
+  color: #fff;
+  font-size: 34px;
+  text-align: center;
+}
+.service__bottom {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.service__bottom-img {
+  padding: 0px 50px;
+}
+.service__bottom-img-image {
+  width: 405px;
+  height: 450px;
+}
+.service__bottom-list {
+  padding: 60px 50px;
+  color: #fff;
+}
+.service__bottom-list-item-all {
+  padding: 20px 0px;
+}
+.service__bottom-list-item-all-box {
+  display: flex;
+  gap: 15px;
+}
+.service__bottom-list-item-all-box img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.service__bottom-list-item-all-box h4 {
+  padding: 10px 0px;
+}/*# sourceMappingURL=section2.css.map */

@@ -1,1 +1,36 @@
-/*# sourceMappingURL=section3.css.map */
+.extra {
+  width: 100%;
+  background-color: #1F2E35;
+  text-align: center;
+}
+.extra__top {
+  padding: 100px 0px;
+}
+.extra__top-style {
+  font-size: 34px;
+  color: #fff;
+}
+.extra__top-style2 {
+  padding: 20px 0px;
+  font-size: 18px;
+  color: #fff;
+}
+.extra__bottom {
+  padding: 30px 200px;
+  text-align: start;
+}
+.extra__bottom-box {
+  display: flex;
+  gap: 15px;
+  color: #fff;
+  font-size: 14px;
+  border-bottom: 1px solid #02897A;
+  padding: 20px 0px;
+}
+.extra__bottom-box2 {
+  color: #fff;
+  font-size: 14px;
+  display: flex;
+  gap: 8px;
+  border-bottom: 1px solid #02897A;
+}/*# sourceMappingURL=section3.css.map */

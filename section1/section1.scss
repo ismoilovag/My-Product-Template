@@ -1,0 +1,47 @@
+.about{
+    width: 100%;
+    background-color: #22343D;
+    &__title{
+        padding: 30px 0px;
+        text-align: center;
+        &-style{
+            font-size: 24px;
+            color: #fff;
+            padding: 50px 0px;
+
+        }
+        &-style2{
+            color: #fff;
+            font-size: 34px;
+            padding: 20px 0px;
+        }
+        &-style3{
+            color: #fff;
+            font-size: 18px;
+            padding: 10px 0px 50px;
+        }
+        &-btn{
+            padding: 10px 40px;
+            border-radius: 8px;
+            background-color: #02897A;
+            border: none;
+            color: #fff;
+        }
+    }
+}
+@media screen and (max-width:398px) {
+    .about{
+        &__title{
+            &-style{
+                font-size: 20px;
+            }
+            &-style2{
+                font-size: 28px;
+            }
+            &-style3{
+                font-size: 14px;
+            }
+            
+        }
+    }
+}
